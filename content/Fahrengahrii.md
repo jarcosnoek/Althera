@@ -1,0 +1,1 @@
+De [[Fahrengahrii]] is het [[mensen]] volk gevestigd in [[Fahrengahr]]. Dit volk heeft een [[Keizar]]. Dit volk wordt gekenmerkt door zijn eer, een [[Fahrengahrii]] zal eerst slaan en dan praten en zal pas achteraf denken in een conflict.
