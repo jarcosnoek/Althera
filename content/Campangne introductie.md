@@ -121,9 +121,6 @@ Iemand input?
 >We bevinden ons in [[Fahrengahr]]. [[Fahrengahr]] op het continent [[Althera]] is een land vol rollende graslanden, groene hooggebergten, uitgestrekte valleien en grote dichte bossen. [[Fahrengahr]] is een land bewoond door de [[Fahrengahrii]]. Dit [[mensen]] volk heeft een president of hoe zij het noemen [[Keizar]]. Naast [[Fahrengahr]] ligt [[Throngarûm]]. [[Throngarûm]] is een land vol hooggebergten. Hier leven de [[dwergen]]. Deze [[Dwergen]] of [[Thronghaldi]] leven in een monargie.[[Fahrengahr]] is lang in oorlog geweest met hun oorsterlijke buuren in [[Throngarûm]]. Deze oorlog de [[oorlog der eeuwen]] is recent gaan liggen. De conecties tussen de [[Thronghaldi]] koningin [[Thamra Stonebloom]] en de [[Fahrengahrii]] [[Keizar]] [[Caelen Vireth]] worden sterker, maar grensen zijn nog steeds gesloten. Verdragen worden gesloten om de relatie te verbeteren om zo de twee landen in de eeuw te brengen genaamt "[[pax certamen]]"
 ^Wereld
 
-
-![[Spelers]]
-
 # Character sheet overview
 ![[character-sheet.pdf]]
 
