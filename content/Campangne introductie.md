@@ -149,10 +149,3 @@ Iemand input?
 ## Details
 ### Class features
 ### Numbers
-
-
-
-# Post mortem
-
-# Quotes
-Jesper - anders moet je even een boek opstellen met alle regelementen
