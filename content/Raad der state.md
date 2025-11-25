@@ -1,0 +1,1 @@
+De [[raad der state]] is het regerings oorgaan van [[Fahrengahr]]. Deze zijn verantwoordelijk voor het kiezen van een [[Keizar]].  Ook stelt de [[Raad der state]] wetten op die door de [[Keizar]] uitgevoerd worden
