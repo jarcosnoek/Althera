@@ -1,5 +1,3 @@
-#sessie #AEoW
-
 [[Althera - Echoes of War]] [[Althera - Echoes of War#ACT 1 - In the begining...|ACT 1 - In the begining...]]  - Ep 0 - [[Campangne introductie]]
 [[d&d campaign sessies|andere sessies]]
 # Introduction
@@ -149,3 +147,6 @@ Iemand input?
 ## Details
 ### Class features
 ### Numbers
+
+
+#sessie #AEoW

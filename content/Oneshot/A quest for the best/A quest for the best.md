@@ -1,4 +1,3 @@
-#sessie #oneshot
 [[d&d campaign sessies|andere sessies]]
 # Spelers
 * [[Turin]]
@@ -37,3 +36,6 @@
 * [[Jax]] heeft 1x erg groot stuk appeltaart
 * [[Turin]] heeft 4x erg groot stuk appeltaart
 * [[Neex]] heeft een rust colored bag of trics ontvangen (DMG p234)
+
+
+#sessie #oneshot
