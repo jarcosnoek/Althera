@@ -7,6 +7,7 @@ In het zuid-oosten ligt [[Vhur'Zahl]]
 
 
 ## Steden
+* [[Northinger]]
 
 
 ## Geschiedenis

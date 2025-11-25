@@ -1,8 +1,15 @@
 # Voorwoord
 Tijdens mijn tochten door [[Althera]] heen heb ik veel verhalen gehoord van een groep avonturiers uit een vervlogen tijd. Ook al zal het voor mij de mogelijkheid ontbreken om deze verhalen te verifiëren. Tracht ik deze verhalen wel degelijk als een kern van waarheid. Ik ben de hoge Elf [[Arwen Dalethodri]]. De hoofd historicus aan de [[hoge universiteit des Eltherin]] en ik presenteer aan u [[Althera - Echoes of War]].
 
+# Inhoud
+1. Verhalen van [[Althera - Echoes of War]]
+2. [[Althera|Geografie van Althera]]
+3. [[Wezens des Althera]]
+
 # Hoe werkt dit boek
 Dit boek beschrijft een groep avonturiers en hun avonturen in [[Althera]]. Dit is te navigeren door de links te volgen in de tekst of natuurlijk te zoeken in de zoekbalk. Tevens worden alle sessie notities onder [[Althera - Echoes of War]] gebracht.
+
+
 
 
 
