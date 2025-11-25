@@ -5,6 +5,9 @@ Tijdens mijn tochten door [[Althera]] heen heb ik veel verhalen gehoord van een 
 1. Verhalen van [[Althera - Echoes of War]]
 2. [[Althera|Geografie van Althera]]
 3. [[Wezens des Althera]]
+4. [[Lijst van steden]]
+5. [[Lijst van personages]]
+6. [[Lijst van quests]]
 
 # Hoe werkt dit boek
 Dit boek beschrijft een groep avonturiers en hun avonturen in [[Althera]]. Dit is te navigeren door de links te volgen in de tekst of natuurlijk te zoeken in de zoekbalk. Tevens worden alle sessie notities onder [[Althera - Echoes of War]] gebracht.
