@@ -1,0 +1,1 @@
+Het huis van [[Comandant Freyja]] is een modest huis gelegen net buiten de binnen muur van [[Keep Helgen]].
