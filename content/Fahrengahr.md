@@ -8,6 +8,7 @@ In het zuid-oosten ligt [[Vhur'Zahl]]
 
 ## Steden
 * [[Northinger]]
+* [[Pallet's reach]]
 
 
 ## Geschiedenis

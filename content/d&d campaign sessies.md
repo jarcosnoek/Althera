@@ -1,11 +1,18 @@
 # [[Althera - Echoes of War]]
 0. [[Campangne introductie]]
-## Spelers
-* [[Jax|Jax - Ilja]]
-* [[Neex|Neex - Duncan]]
-* [[Umbra|Umbra filius - Lucas]]
-* [[Veyra|Vayra - Anne]]
-* [[Turin| Turin- Ties]]
+1. [[Forgiveness - 'The Skyrim start']]
+# Sessies
+## [[Campangne introductie]]
+
+## [[Forgiveness - 'The Skyrim start']]
+### Spelers
+* [[Theodore James Johan von Oldenstein]]
+* [[Turin]]
+* [[Veyra]]
+* [[Zephyr]]
+* [[Jax]]
+* [[Neex]]
+
 
 # OneShots
 ## [[A quest for the best]]
