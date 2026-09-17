@@ -1,2 +1,0 @@
-* [[Northinger]]
-* [[Pallet's reach]]
