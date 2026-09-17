@@ -1,0 +1,1 @@
+De koks van de [[Soldiers rest (inn)]] zijn [[ratten]] net als in ratatouille
