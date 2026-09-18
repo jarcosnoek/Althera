@@ -17,17 +17,6 @@
 We bevinden ons op het continent [[Althera]]. Dit verhaal speelt zich af in het land [[Fahrengahr]], [[Fahrengahr]] is een land vol rollende graslanden, groene hooggebergte en dichte bossen; bewoond door mensen, deze mensen hebben een [[Keizar]]. Ten oosten van [[Fahrengahr]] ligt [[Throngarûm]], [[Throngarûm]] is een is een land vol hooggebergte waar de [[Dwergen]] leven. Ten zuiden van [[Fahrengahr]] ligt het grouwe land [[Vhur'Zahl]] , waar de [[Drow]] leven. Het continent [[Althera]] is langetijd onrustig geweest. Het continent kent een geschiedenis van oorlogen tussen bijvoorbeeld [[Fahrengahr]] en [[Throngarûm]], echter proberen de twee landen langzaam aan verzoening te zoeken door zich te richten op nouwere diplomatie, ookal zijn beide landen nog enigzinds schuw voor elkaar.
 
 Centraal in [[Fahrengahr]] ligt de bruizende hoofdstad [[Northinger]]. Langs de oosterlijke grens tussen [[Fahrengahr]] en [[Throngarûm]] ligt de rivier de [[Thalen]] langs deze rivier ligt een klein stadje genaamr [[Pallet's reach]], deze stad wordt op het moment voornamelijk gebruikt als vestingsstad die een belangrijke rol op zich neemt voor de verdediging van de grens.
-### Het team
-Een avontuur is natuurlijk niet compleet zonder avonturiers. Dit verhaal heeft een soms wat wisselende cast.
-
-[[Jax]] is een [[Tabaxi]] monk.
-[[Scrumdiddlyumptious]]
-[[Theodore James Johan von Oldenstein]]
-[[Neex]]
-[[Umbra]]
-[[Veyra]]
-[[Zephyr]]
-[[Thurin]]
 ### [[Forgiveness - 'The Skyrim start']]
 
 ### [[Ep 2]]
