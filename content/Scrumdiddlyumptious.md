@@ -13,5 +13,5 @@ persoonlijkheid: Charismatisch, maar volkomen egoïstisch als het er op aankomt;
 
 
 
-In [[Ep2]] komt [[Scrumdiddlyumptious]] uit een paars portaal en moeten de andere hem er uit trekken. 
+In [[Ep 2.]] komt [[Scrumdiddlyumptious]] uit een paars portaal en moeten de andere hem er uit trekken. 
 

@@ -1,3 +1,4 @@
+Gespeeld op 30-7-26
 [[Althera - Echoes of War]]
 #sessie #AEoW 
 [[Neex]] is naar de raghut in het haarlemmermeerse bos aka [[donkere woud van Pallet's Reach]]

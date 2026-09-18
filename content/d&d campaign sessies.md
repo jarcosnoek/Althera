@@ -21,7 +21,7 @@
 * [[Veyra]] - [[Anne]]
 * [[Zephyr]] - [[Felicia]]
 * [[Thurin]] - [[Ties]]
-## [[Forgiveness - 'The Skyrim start']]
+## [[Ep 1. Forgiveness - 'The Skyrim start']]
 ### Spelers
 * [[Theodore James Johan von Oldenstein]] - [[Benjamin]]
 * [[Thurin]] - [[Ties]]
@@ -29,11 +29,11 @@
 * [[Zephyr]] - [[Felicia]]
 * [[Jax]] - [[Ilja]]
 * [[Neex]] - [[Duncan]]
-##  [[Ep2]]
-## [[ep 3]]
-## [[12.6.2026]]
-## [[30.7.26]]
-## [[12.9.26]]
+##  [[Ep 2.]]
+## [[ep 3.]]
+## [[Ep 4.]]
+## [[Ep 5.]]
+## [[Ep 6.]]
 
 ### Spelers
 

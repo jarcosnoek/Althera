@@ -1,4 +1,4 @@
-Theodore James Johan von Oldenstein gespeeld door [[Benjamin]] gedurende [[Forgiveness - 'The Skyrim start']]. Gespeeld door [[Gina]] gedurende [[12.9.26]]
+Theodore James Johan von Oldenstein gespeeld door [[Benjamin]] gedurende [[Ep 1. Forgiveness - 'The Skyrim start']]. Gespeeld door [[Gina]] gedurende [[Ep 6.]]
 ## Omschrijving
 >
 Theodore is een lange [[mensen|human]] Wizzard. Hij heeft een lange baard en draagd een paarse robe met een medium size paarse punthoed
