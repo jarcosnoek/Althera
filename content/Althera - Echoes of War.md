@@ -20,11 +20,19 @@ Centraal in [[Fahrengahr]] ligt de bruizende hoofdstad [[Northinger]]. Langs de 
 ### Het team
 Een avontuur is natuurlijk niet compleet zonder avonturiers. Dit verhaal heeft een soms wat wisselende cast.
 
-### Ep 1
+[[Jax]] is een [[Tabaxi]] monk.
+[[Scrumdiddlyumptious]]
+[[Theodore James Johan von Oldenstein]]
+[[Neex]]
+[[Umbra]]
+[[Veyra]]
+[[Zephyr]]
+[[Thurin]]
+### [[Forgiveness - 'The Skyrim start']]
 
-### Ep 2
-### Ep 3
-### Ep 4
-### Ep 5
-### Ep 6
+### [[Ep 2]]
+### [[Ep 3]]
+### [[12.6.2026]]
+### [[30.7.26]]
+### [[12.9.26]]
 
