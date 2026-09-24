@@ -44,5 +44,4 @@
 * [[Jax]] - [[Ilja]]
 *  [[Veyra]] - [[Anne]]
 * [[Thurin]] - [[Ties]]
-
 ### Spelers
