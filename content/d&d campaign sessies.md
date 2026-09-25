@@ -29,11 +29,11 @@
 * [[Zephyr]] - [[Felicia]]
 * [[Jax]] - [[Ilja]]
 * [[Neex]] - [[Duncan]]
-##  [[Ep 2.]]
-## [[ep 3.]]
-## [[Ep 4.]]
-## [[Ep 5.]]
-## [[Ep 6.]]
+##  [[Ep 2. Collecting debts]]
+## [[ep 3. The orb in the ruins]]
+## [[Ep 4. The shady salesman]]
+## [[Ep 5. Let the hunter be hunted]]
+## [[Ep 6. Doing Crime and Doing Drugs]]
 
 ### Spelers
 

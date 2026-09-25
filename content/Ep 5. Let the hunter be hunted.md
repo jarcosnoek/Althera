@@ -4,7 +4,7 @@ Gespeeld op 30-7-26
 [[Neex]] is naar de raghut in het haarlemmermeerse bos aka [[donkere woud van Pallet's Reach]]
 [[Jax]] is achter een bolletje wol aan in het haarlemmermeerse bos.
 
-Sidequest zoek een carrage
+
 Taylor swift komt op marktplein over 3 dagen
 
 Saphyr heeft nu adressen van Soldiers rest in, address in Thulenkeep, en Northinger
