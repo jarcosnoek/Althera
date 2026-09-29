@@ -22,26 +22,13 @@
 * [[Zephyr]] - [[Felicia]]
 * [[Thurin]] - [[Ties]]
 ## [[Ep 1. Forgiveness - 'The Skyrim start']]
-### Spelers
-* [[Theodore James Johan von Oldenstein]] - [[Benjamin]]
-* [[Thurin]] - [[Ties]]
-*  [[Veyra]] - [[Anne]]
-* [[Zephyr]] - [[Felicia]]
-* [[Jax]] - [[Ilja]]
-* [[Neex]] - [[Duncan]]
 ##  [[Ep 2. Collecting debts]]
-## [[ep 3. The orb in the ruins]]
+## [[Ep 3. The orb in the ruins]]
 ## [[Ep 4. The shady salesman]]
 ## [[Ep 5. Let the hunter be hunted]]
 ## [[Ep 6. Doing Crime and Doing Drugs]]
 
-### Spelers
 
 # OneShots
 ## [[A quest for the best]]
-### Spelers
-* [[Neex]] - [[Duncan]]
-* [[Jax]] - [[Ilja]]
-*  [[Veyra]] - [[Anne]]
-* [[Thurin]] - [[Ties]]
-### Spelers
+

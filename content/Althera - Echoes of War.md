@@ -5,7 +5,7 @@
 0. [[Campangne introductie]]
 1. [[Ep 1. Forgiveness - 'The Skyrim start']]
 2. [[Ep 2. Collecting debts]]
-3. [[ep 3. The orb in the ruins]]
+3. [[Ep 3. The orb in the ruins]]
 4. [[Ep 4. The shady salesman]]
 5. [[Ep 5. Let the hunter be hunted]]
 6. [[Ep 6. Doing Crime and Doing Drugs]]
@@ -22,7 +22,7 @@ Ons avontuur start zoals alle clasieke verhalen starten, met onze avonturiers([[
 
 ### [[Ep 2. Collecting debts]]
 [[Theodore James Johan von Oldenstein]], [[Thurin]] en [[Neex]] zijn op vakantie gegaan naar Curacau. Bij de voordeur trof de groep [[Umbra]] aan. Even later kwam [[Neex]] terug, zonder sokken. Toen de groep onderweg was naar[[Pierre's general store]] stuite zij op een sigil op een muur, dit bleek een portaal te zijn, waar de groep [[Scrumdiddlyumptious]] uit getrokken heeft.  De groep vervolgde hun kweest om belasting te innen, tijdens het innen van de belasting overtuigde [[Scrumdiddlyumptious]] een groot aantal van de winkeliers, dat de belasting met 20% was gestegen. In [[Klint's ironworks]] raakte [[Umbra]] te vuist met [[Klint]], hier moest [[Umbra]] uiteindelijk vluchten. Bij [[Pierre]] drukkte [[Umbra]] een health potion achter de rug. Na alle belasting verzameld te hebben hoorde de groep in een steeg geschreeuw. Toen [[Umbra]] en [[Jax]] de steeg in liepen hoorde [[Umbra]] een aantal personen sugereren in [[Thieves' Chant]] dat ze hun zouden beroven, bij de uitgang troffen ze 1 bandit aan, na een relatief kort gevecht waar totaal 3 bandits gesneuveld werden, vervolgde de groep haar reis naar de burgemeester. Daar aangekomen namen ze de sleutel aan in ruil voor de belasting, tevens duide de burgemeester hun ook op de [[Camping-ground]]. Hier aangekomen werd er gejaagd, shelter gebouwd en wordt er een oude [[camper]] zonder motor gevonden.
-### [[ep 3. The orb in the ruins]]
+### [[Ep 3. The orb in the ruins]]
 In de nacht is [[Umbra]] ontvoerd naar diddy island en is hierna niet meer gezien. Omdat de groep nu de sleutel heeft, besloten ze de [[Keep Helgen - Oud fort ruines|Oude ruines]] te exploreren. In de ruïnes hebben ze veel loot gevonden, een aantal levende zwaarden etcetera bevochten. In de laatste kamer vonden ze een [[Orb of Dragonkind.png]], die op een pilaar lag met een [[Inscriptie oude ruines orb|inscriptie]] erop. Over de orb lag een dode [[Drow]] met een leger uniform van [[Vhur'Zahl]]. Nadat [[Scrumdiddlyumptious]] de orb opgepakt heeft ging er achter een schilderij een kluis open.
 
 ### [[Ep 4. The shady salesman]]
