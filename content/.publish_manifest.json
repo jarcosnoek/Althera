@@ -55,7 +55,7 @@
     },
     "Pallet's reach.md": {
       "attachments": [
-        "Pallets reach map.png"
+        "maps/Pallets reach map.png"
       ]
     },
     "pax.md": {
@@ -125,7 +125,7 @@
     },
     "It all starts somewhere.md": {
       "attachments": [
-        "Pallets reach map.png"
+        "maps/Pallets reach map.png"
       ]
     },
     "Theodore James Johan von Oldenstein.md": {
@@ -223,9 +223,6 @@
     "Tax-season in Pallet's Reach.md": {
       "attachments": []
     },
-    "d&d campaign sessies.md": {
-      "attachments": []
-    },
     "Moris on the run.md": {
       "attachments": []
     },
@@ -258,27 +255,27 @@
     },
     "Althera - Echoes of War.md": {
       "attachments": [
-        "books/DMG/Orb of Dragonkind.png",
-        "books/DMG/Bag of Holding.png"
+        "books/DMG/Bag of Holding.png",
+        "books/DMG/Orb of Dragonkind.png"
       ]
     },
     "koks van Soldiers rest.md": {
       "attachments": []
     },
-    "Oneshot/A quest for the best/A quest for the best.md": {
-      "attachments": []
-    },
     "Ep 1. Forgiveness - 'The Skyrim start'.md": {
       "attachments": [
-        "Pallets reach map.png"
+        "maps/Pallets reach map.png"
       ]
+    },
+    "d&d campaign sessies.md": {
+      "attachments": []
     },
     "Inscriptie oude ruines orb.md": {
       "attachments": []
     },
     "Ep 2. Collecting debts.md": {
       "attachments": [
-        "Pallets reach map.png"
+        "maps/Pallets reach map.png"
       ]
     },
     "Ep 5. Let the hunter be hunted.md": {
@@ -289,17 +286,65 @@
     },
     "Ep 3. The orb in the ruins.md": {
       "attachments": []
+    },
+    "Oneshot/A quest for the best/A quest for the best.md": {
+      "attachments": []
     }
   },
   "attachments": {
-    "character-sheet.pdf": true,
-    "Gus_Fring_2002.webp": true,
-    "D&D Shop Catalog, V-1.8.pdf": true,
-    "Morris.png": true,
-    "Pallets reach map.png": true,
-    "Pierre.png": true,
-    "Clint.png": true,
-    "books/DMG/Bag of Holding.png": true,
-    "books/DMG/Orb of Dragonkind.png": true
+    "character-sheet.pdf": {
+      "signature": {
+        "size": 386250,
+        "mtime_ns": 1756236048483489279
+      }
+    },
+    "Gus_Fring_2002.webp": {
+      "signature": {
+        "size": 92936,
+        "mtime_ns": 1751973906569716980
+      }
+    },
+    "D&D Shop Catalog, V-1.8.pdf": {
+      "signature": {
+        "size": 1248266,
+        "mtime_ns": 1751973906569716980
+      }
+    },
+    "Morris.png": {
+      "signature": {
+        "size": 1116,
+        "mtime_ns": 1751973906569716980
+      }
+    },
+    "maps/Pallets reach map.png": {
+      "signature": {
+        "size": 1513312,
+        "mtime_ns": 1790677904735837650
+      }
+    },
+    "Pierre.png": {
+      "signature": {
+        "size": 1123,
+        "mtime_ns": 1751973906569716980
+      }
+    },
+    "Clint.png": {
+      "signature": {
+        "size": 1439,
+        "mtime_ns": 1751973906565716936
+      }
+    },
+    "books/DMG/Bag of Holding.png": {
+      "signature": {
+        "size": 1446879,
+        "mtime_ns": 1767363856180762528
+      }
+    },
+    "books/DMG/Orb of Dragonkind.png": {
+      "signature": {
+        "size": 15331082,
+        "mtime_ns": 1767364579867957071
+      }
+    }
   }
 }
